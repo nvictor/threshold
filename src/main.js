@@ -94,7 +94,7 @@ app.innerHTML = `
           <label for="burnRange">SLO burn rate: <strong id="burnValue"></strong>x</label>
           <input id="burnRange" type="range" min="0" max="20" step="0.1" value="${state.burn}" />
 
-          <label for="impactRange">Observed user impact: <strong id="impactValue"></strong>%</label>
+          <label for="impactRange">Observed user impact: <strong id="impactValue"></strong></label>
           <input id="impactRange" type="range" min="0" max="100" step="1" value="${state.impact}" />
 
           <label for="sustainedSelect">Condition sustained for multiple windows?</label>
