@@ -1,0 +1,20 @@
+{
+  "name": "threshold",
+  "version": "1.0.0",
+  "description": "Interactive PWA for comparing threshold-based and SLO-based alerting.",
+  "scripts": {
+    "dev": "python3 -m http.server 4203",
+    "build": "node scripts/build.mjs",
+    "preview": "python3 -m http.server --directory dist 4204"
+  },
+  "keywords": [
+    "slo",
+    "threshold",
+    "alerting",
+    "sre",
+    "pwa"
+  ],
+  "author": "Victor Noagbodji",
+  "license": "MIT",
+  "type": "module"
+}
