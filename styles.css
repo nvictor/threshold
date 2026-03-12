@@ -62,7 +62,7 @@ h2 {
   border: 1px solid var(--line);
   border-radius: 1.1rem;
   padding: 1.2rem;
-  box-shadow: 0 8px 30px rgba(16, 50, 74, 0.08);
+  box-shadow: 0 8px 30px rgba(107, 29, 43, 0.1);
 }
 
 .grid {
@@ -84,7 +84,7 @@ h2 {
 
 .card p {
   margin: 0;
-  color: #284053;
+  color: #61312a;
 }
 
 .stack {
@@ -98,7 +98,7 @@ label {
 
 input[type='range'] {
   width: 100%;
-  accent-color: #1d4f6e;
+  accent-color: #c4453b;
 }
 
 select {
@@ -127,8 +127,8 @@ button {
 
 button.ghost {
   background: #fff;
-  color: #0f3150;
-  border-color: #8cb3cc;
+  color: #7a2c22;
+  border-color: #e1aa9a;
 }
 
 .result {
@@ -177,7 +177,7 @@ button.ghost {
 
 .note {
   margin: 0;
-  color: #284053;
+  color: #61312a;
 }
 
 @media (max-width: 700px) {
