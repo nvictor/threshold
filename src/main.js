@@ -70,7 +70,7 @@ const app = document.querySelector('#app');
 app.innerHTML = `
   <main>
     <header class="hero">
-      <p class="eyebrow">SRE Alerting Study Lab</p>
+      <p class="eyebrow">SRE Alerting Study</p>
       <h1>SLO-Based vs Threshold-Based Alerting</h1>
       <p>
         Learn when to page, when to warn, and when to debug. This lab follows the practical pattern: SLO alerts for paging,

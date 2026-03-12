@@ -1,11 +1,11 @@
 {
-  "name": "SLO vs Threshold Alerting Lab",
-  "short_name": "Alerting Lab",
+  "name": "SLO vs Threshold Alerting",
+  "short_name": "Alerting",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f5f9ff",
-  "theme_color": "#10324a",
+  "theme_color": "#7a1f2b",
   "description": "Interactive guide for comparing threshold-based and SLO-based alerting.",
   "icons": [
     {

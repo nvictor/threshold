@@ -1,4 +1,4 @@
-# SLO vs Threshold Alerting Lab
+# SLO vs Threshold Alerting
 
 Interactive educational PWA comparing threshold-based and SLO-based alerting.
 
