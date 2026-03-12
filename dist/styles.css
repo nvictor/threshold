@@ -1,11 +1,11 @@
 :root {
-  --bg: #f5f9ff;
-  --ink: #102334;
+  --bg: #fff7f3;
+  --ink: #3a1f1c;
   --panel: #ffffff;
-  --line: #c8d9e9;
-  --hero-a: #10324a;
-  --hero-b: #2f7f8f;
-  --accent: #f2b447;
+  --line: #e8cbc2;
+  --hero-a: #6b1d2b;
+  --hero-b: #c4453b;
+  --accent: #f0a94a;
   --ok: #0f766e;
   --warn: #9a3412;
   --bad: #b42318;
@@ -20,8 +20,8 @@ body {
   margin: 0;
   color: var(--ink);
   background:
-    radial-gradient(circle at 8% 8%, #d8f3ff 0, transparent 32%),
-    radial-gradient(circle at 90% 4%, #e0ffe8 0, transparent 30%),
+    radial-gradient(circle at 8% 8%, #ffe4dc 0, transparent 34%),
+    radial-gradient(circle at 90% 4%, #ffd7cc 0, transparent 32%),
     var(--bg);
 }
 
@@ -36,7 +36,7 @@ main {
   color: #f8fbfd;
   border-radius: 1.4rem;
   padding: 2rem;
-  box-shadow: 0 24px 50px rgba(16, 50, 74, 0.25);
+  box-shadow: 0 24px 50px rgba(107, 29, 43, 0.28);
   margin-bottom: 1rem;
 }
 
